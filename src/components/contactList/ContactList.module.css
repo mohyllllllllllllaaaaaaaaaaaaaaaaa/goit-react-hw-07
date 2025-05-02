@@ -13,4 +13,5 @@
     justify-content: space-between;
     align-items: flex-start;
     width: 280px; 
+    box-shadow: 5px 5px 60px rgba(70, 23, 101, 0.304);
 }
